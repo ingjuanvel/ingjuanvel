@@ -23,12 +23,6 @@ I'm a systems engineering student passionate about mobile app development and bu
 
 ---
 
-### 📈 GitHub Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingjuanvel&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Contact
 
 - Velsoftware: https://www.facebook.com/profile.php?id=61565189676548
