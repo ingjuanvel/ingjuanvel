@@ -1,6 +1,41 @@
-### Languages I Use
+# 👋 Hi, I'm Juan Velasquez
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+I'm a systems engineering student passionate about mobile app development and building innovative solutions with modern tools like FlutterFlow and Firebase. I enjoy combining intuitive design with solid logic to create high-impact digital products.
+
+---
+
+### 🧠 Languages I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-FF6D00?style=for-the-badge&logo=flutter&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingjuanvel&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Contact
+
+- LinkedIn: [linkedin.com/in/juanvelasquez](https://www.linkedin.com/in/juanvelasquez)
+- Portfolio / Website: [your-portfolio.com](https://your-portfolio.com)
+- Email: juan@example.com
+
+---
+
+> *“Striving to build tech that makes life easier, smarter, and more connected.”*
+
