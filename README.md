@@ -31,11 +31,9 @@ I'm a systems engineering student passionate about mobile app development and bu
 
 ### 📫 Contact
 
-- LinkedIn: [linkedin.com/in/juanvelasquez](https://www.linkedin.com/in/juanvelasquez)
-- Portfolio / Website: [your-portfolio.com](https://your-portfolio.com)
-- Email: juan@example.com
+- Velsoftware: https://www.facebook.com/profile.php?id=61565189676548
+- Email: byvelsoftware@gmail.com
 
 ---
 
-> *“Striving to build tech that makes life easier, smarter, and more connected.”*
 
