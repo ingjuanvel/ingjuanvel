@@ -6,25 +6,11 @@
 
 ---
 
-### 🚀 Technologies
+### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
-</p>
-
----
-
-### 🛠 Tools
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/76891171?s=200&v=4" height="40" alt="FlutterFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="Xcode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase,vscode,xcode,github" />
+  <img src="https://avatars.githubusercontent.com/u/76891171?s=200&v=4" width="40px" title="FlutterFlow" alt="FlutterFlow" />
 </p>
 
 ---
