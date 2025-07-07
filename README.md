@@ -9,7 +9,7 @@
 ### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase,vscode,matlab,github,linkedin" />
+  <img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase" />
   <img src="https://skillicons.dev/icons?i=vscode,matlab,github,linkedin" />
   <img src="https://avatars.githubusercontent.com/u/76891171?s=200&v=4" width="40px" title="FlutterFlow" alt="FlutterFlow" />
 </p>
