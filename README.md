@@ -9,8 +9,7 @@
 ### 🚀 Technologies & Tools
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-  <img src="https://avatars.githubusercontent.com/u/76891171?s=200&v=4" width="40px" title="FlutterFlow" alt="FlutterFlow" />
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 ---
